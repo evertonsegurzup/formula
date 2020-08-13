@@ -48,7 +48,7 @@ and commit your implementation: `git commit -m '<commit_message>`
 
 
 
-#Personnel formula
+## Personnel formula
 
 Sum two numbers
 * math sum numbers 
