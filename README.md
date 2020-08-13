@@ -44,3 +44,14 @@ This repository contains rit formulas which can be executed by the [ritchie-cli]
 and commit your implementation: `git commit -m '<commit_message>`
 5. Push your branch: `git push origin <project_name>/<location>`
 6. Open a pull request on the repository for analysis.
+
+
+
+
+#Personnel formula
+
+Sum two numbers
+* math sum numbers 
+  - input number one
+  - input number two
+
