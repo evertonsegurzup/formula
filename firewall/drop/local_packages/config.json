@@ -1,0 +1,20 @@
+{
+  "dockerImageBuilder": "cimg/base:stable-20.04",
+  "inputs": [
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Type new local network address",
+        "qty": 2
+      },
+      "label": "Write your local network address",
+      "name": "NETWORK_ADDRESS",
+      "type": "text"
+    },
+    {
+      "label": "Write your gateway address",
+      "name": "GATEWAY_ADDRESS",
+      "type": "text"
+    }
+  ]
+}
