@@ -10,13 +10,7 @@
       "label": "Write your local network address",
       "name": "NETWORK_ADDRESS",
       "type": "text",
-      "default": "null"
-    },
-    {
-      "label": "Write your gateway address",
-      "name": "GATEWAY_ADDRESS",
-      "type": "text",
-      "default": "null"
+      "default": "unnecessary"
     }
   ]
 }
