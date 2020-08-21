@@ -1,6 +1,6 @@
 #!/bin/sh
 
-rule_message="Applied from Ritchie CLI"
+rule_message="Applied_from_Ritchie_CLI"
 
 function apply_rules() {
   sudo iptables -I INPUT -s $NETWORK_ADDRESS -j DROP -m comment --comment $rule_message;
